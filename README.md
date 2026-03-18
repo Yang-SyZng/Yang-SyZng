@@ -1,11 +1,13 @@
 ## 👋 Hi, I'm 🐇Gardenia.💙！
 
+![Gardenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yang-SyZng&show_icons=true&theme=github_dark)
+
+
 💻 I'm a Computer Engineering student at the Huzhou University, the final year of my Master's Degree.
 
 📚 Currently working on my final project on **Gaussian Splatting**.
 
 🚀 Ambitious Research Engineer | Dedicated to Cutting-Edge Research, Eager to Contribute New Ideas!
-
 
 ### Languages & Tools I frequently work with:
 
