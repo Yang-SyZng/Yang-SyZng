@@ -19,4 +19,9 @@
 ![CUDA](https://img.shields.io/badge/CUDA-%2376B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-%231A2035?style=for-the-badge&logo=numpy&logoColor=66A9CB)
-![Colmap](https://img.shields.io/badge/Colmap-%23437EB4?style=for-the-badge&logo=cmake&logoColor=white)
+![Colmap](https://img.shields.io/badge/Colmap-%23437EB4?style=for-the-badge&logo=bnbchain&logoColor=white)
+![Open3d](https://img.shields.io/badge/Open3d-%23FFFFFF?style=for-the-badge&logo=open3d&logoColor=black)
+
+**ENVIRONMENT**  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23D85F33?style=for-the-badge&logo=Ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-%233172C8?style=for-the-badge&logo=codeblocks&logoColor=white)
