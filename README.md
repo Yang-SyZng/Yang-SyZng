@@ -1,29 +1,21 @@
-## 👋 Hi, I'm 🐇Gardenia.💙！
+## 👋 Hi, I'm Gardenia.🧸！
 
-![Gardenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yang-SyZng&show_icons=true&theme=github_dark)
+💻 I'm a Computer 3D Vision & Multimodality student at Huzhou Normal University, Currently focused on research into combining multimodal models to enhance 3D reconstruction quality.
 
+📚 Currently working on my final project on **3D Gaussian Splatting**, while building practical experience with LLM agents, RAG, tool use, and multi-agent workflows.
 
-💻 I'm a Computer Engineering student at the Huzhou University, the final year of my Master's Degree.
+🚀 Aspiring Agent Engineer | Interested in designing reliable AI agents that can reason, use tools, retrieve knowledge, and automate real-world workflows.
 
-📚 Currently working on my final project on **Gaussian Splatting**.
-
-🚀 Ambitious Research Engineer | Dedicated to Cutting-Edge Research, Eager to Contribute New Ideas!
-
-### Languages & Tools I frequently work with:
+### Languages & Tools:
 
 **Programming Languages**\
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 ![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-%2376B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 **Frameworks & Tools**  
-![CUDA](https://img.shields.io/badge/CUDA-%2376B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-%231A2035?style=for-the-badge&logo=numpy&logoColor=66A9CB)
-![Colmap](https://img.shields.io/badge/Colmap-%23437EB4?style=for-the-badge&logo=bnbchain&logoColor=white)
-![Open3d](https://img.shields.io/badge/Open3d-%23FFFFFF?style=for-the-badge&logo=open3d&logoColor=black)
-
-**ENVIRONMENT**  
-![Ubuntu](https://img.shields.io/badge/Ubuntu-%23D85F33?style=for-the-badge&logo=Ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-%233172C8?style=for-the-badge&logo=codeblocks&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-8BC0F0?style=for-the-badge&logo=LangChain&logoColor=black)
+![LangGraph](https://img.shields.io/badge/LangGraph-181F33?style=for-the-badge&logo=LangGraph&logoColor=8BC0F0)
+<!-- ![Colmap](https://img.shields.io/badge/Colmap-%23437EB4?style=for-the-badge&logo=bnbchain&logoColor=white)
+![Open3d](https://img.shields.io/badge/Open3d-%23FFFFFF?style=for-the-badge&logo=open3d&logoColor=black) -->
