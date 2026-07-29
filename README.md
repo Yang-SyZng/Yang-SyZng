@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Gardenia.🧸！
 
-💻 I'm a Computer 3D Vision & Multimodality student at Huzhou Normal University, Currently focused on research into combining multimodal models to enhance 3D reconstruction quality.
+💻 I'm a Computer Vision & AI & Multimodality student at Huzhou Normal University, the major focusing on research into combining multimodal models to enhance 3D reconstruction quality.
 
-📚 Currently working on my final project on **3D Gaussian Splatting**, while building practical experience with LLM agents, RAG, tool use, and multi-agent workflows.
+📚 Currently learning quickly about AI Agent Developing to combine previous work experience  on my individual project, building practical experience with LLM agents, RAG, tool use, and agent workflows.
 
 🚀 Aspiring Agent Engineer | Interested in designing reliable AI agents that can reason, use tools, retrieve knowledge, and automate real-world workflows.
 
