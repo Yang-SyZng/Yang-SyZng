@@ -2,7 +2,7 @@
   
 ## 👋 Hi, I'm Gardenia.🧸！
 
-<img src="assets/Aniya.jpg" width="600">
+<img src="assets/name.png">
 
 💻 Focused on Software Development, Computer Vision, AI & Multimodal AI<br>
 🚀 Aspiring Developer | Exploring the World of Code
